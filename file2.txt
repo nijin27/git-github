@@ -1,1 +1,2 @@
 file 2 for first branch
+this has to be merged into master1
